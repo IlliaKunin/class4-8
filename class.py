@@ -1,5 +1,4 @@
 import streamlit as st
-import secrets
 
 
 st.write("# Class 4-8")
